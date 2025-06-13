@@ -1,0 +1,9 @@
+﻿  LR78Artefacts.cpp
+  Shakhov_LR7_8_Main.cpp
+C:\programmming\LR78Artefacts\LR78Artefacts\Shakhov_LR7_8_Main.cpp(76,5): warning C4984: "if constexpr" — расширение языка C++17
+C:\programmming\LR78Artefacts\LR78Artefacts\Shakhov_LR7_8_Main.cpp(92,5): warning C4984: "if constexpr" — расширение языка C++17
+C:\programmming\LR78Artefacts\LR78Artefacts\Shakhov_LR7_8_Main.cpp(112,5): warning C4984: "if constexpr" — расширение языка C++17
+C:\programmming\LR78Artefacts\LR78Artefacts\Shakhov_LR7_8_Main.cpp(133,5): warning C4984: "if constexpr" — расширение языка C++17
+C:\programmming\LR78Artefacts\LR78Artefacts\Shakhov_LR7_8_Main.cpp(163,5): warning C4984: "if constexpr" — расширение языка C++17
+  Создание кода...
+  LR78Artefacts.vcxproj -> C:\programmming\LR78Artefacts\x64\Debug\LR78Artefacts.exe
